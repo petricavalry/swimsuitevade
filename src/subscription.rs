@@ -1,1 +1,1 @@
-pub mod clash;
+pub mod mihomo;
